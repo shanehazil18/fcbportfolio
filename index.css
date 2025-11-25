@@ -40,10 +40,11 @@ footer {
 }
 
 .fa-brands, .fa-globe {
-    padding: 5px;
+    padding: 10px;
     color: gray;
 }
 
 .fa-brands:hover , .fa-globe:hover {
     color: blue;
+
 }
